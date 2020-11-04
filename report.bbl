@@ -1,0 +1,234 @@
+\begin{thebibliography}{999}
+\setlength{\itemsep}{-2mm}
+\bibitem{WangJ2014}
+Jiao W, Zhenchun L, Deying W. A method for wavelet threshold denoising of seismic data based on CEEMD[J]. Geophysical Prospecting for Petroleum. 2014, 53(2):164-72.
+
+
+\bibitem{Gaci2016}
+Gaci S. A new ensemble empirical mode decomposition (EEMD) denoising method for seismic signals[J]. Energy Procedia. 2016, 97(1):84-91.
+
+\bibitem{Gómez2016}
+Gómez, Julián L., and Danilo R. Velis. A simple method inspired by empirical mode decomposition for denoising seismic data[J]. Geophysics. 2016, 81(6): V403-V413.
+
+\bibitem{LiF2018}
+Li F., Zhang B., Verma S. and Marfurt K.J. Seismic signal denoising using thresholded variational mode decomposition[J]. Exploration Geophysics, 2018, 49(4): 450-461.
+
+\bibitem{LiL2020}
+Long L., Wen X. and Lin Y. Denoising of seismic signals based on empirical mode decomposition-wavelet thresholding[J]. Journal of Vibration and Control, 2020: 1077546320926846.
+
+\bibitem{ZhangD2017}
+Zhang D., Zhou Y., Chen H., Chen W., Zu S., and Chen Y. Hybrid rank-sparsity constraint model for simultaneous reconstruction and denoising of 3D seismic dataHybrid rank-sparsity constraint model[J]. Geophysics, 2017, 82(5): V351-V367.
+
+\bibitem{HuangW2018}
+Huang W., Wu R S., Wang R. Damped dreamlet representation for exploration seismic data interpolation and denoising[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 56(6): 3159-3172.
+
+\bibitem{LiuL2018}
+Liu L., Ma J. Structured graph dictionary learning and application on the seismic denoising[J]. IEEE Transactions on Geoscience and Remote Sensing, 2018, 57(4): 1883-1893.     
+
+\bibitem{Chen2020}
+Chen Y. Fast dictionary learning for noise attenuation of multidimensional seismic data[J]. Geophysical Journal International, 2020, 222(3): 1717-1727.
+
+\bibitem{DengL2017}
+Deng L., Sanyi Y., and Shang W. Sparse Bayesian learning-based seismic denoise by using physical wavelet as basis functions[J]. IEEE Geoscience and Remote Sensing Letters, 2017,14(11): 1993-1997.
+
+\bibitem{LiH2016}
+Li H,, Wang R., Cao S., Chen Y., and Huang W. A method for low-frequency noise suppression based on mathematical morphology in microseismic monitoring[J]. Geophysics, 2016, 81(3): V159-V167.
+
+\bibitem{ZhuW2019}
+Zhu W., S. Mostafa Mousavi, and Gregory C. Beroza. Seismic signal denoising and decomposition using deep neural networks[J]. IEEE Transactions on Geoscience and Remote Sensing, 2019, 57(11): 9476-9488.
+
+\bibitem{Mandelli2019}
+Mandelli, Sara, Vincenzo Lipari, Paolo Bestagini, and Stefano Tubaro. Interpolation and denoising of seismic data using convolutional neural networks. arXiv preprint arXiv:1901.07927 (2019).
+
+\bibitem{Rieber1936}
+Rieber F.  A new reflection system with controlled directional sensitivity[J]. Geophysics, 1936, 1(1): 97-106.
+
+\bibitem{Hagedoorn1954}
+Hagedoorn, Johan Gregorius. A process of seismic reflection interpretation[J]. Geophysical prospecting, 1954, 2(2): 85-127.
+
+\bibitem{Claerbout1971}
+Claerbout, Jon F. Toward a unified theory of reflector mapping[J]. Geophysics, 1971, 36(3): 467-481.
+
+\bibitem{Loewenthal1976}
+Loewenthal D., Lu L., Roberson R., and Sherwood J.  The wave equation applied to migration[J]. Geophysical Prospecting, 1976, 24(2): 380-399.
+
+\bibitem{Hubral1977}
+Hubral Peter. Time migration-Some ray theoretical aspects[J]. Geophysical Prospecting, 1977, 25(4): 738-745.
+
+\bibitem{Stolt1978}
+Stolt Robert H. Migration by Fourier transform[J]. Geophysics, 1978, 43(1): 23-48.
+
+\bibitem{Gazdag1978}
+Gazdag J. Extrapolation of seismic waveforms by Fourier methods[J]. IBM Journal of Research and Development, 1978, 22.5: 481-486.
+
+\bibitem{Whitmore1983}
+Whitmore N. Dan. Iterative depth migration by backward time propagation[J]. SEG Technical Program Expanded Abstracts 1983. Society of Exploration Geophysicists, 1983: 382-385.
+
+\bibitem{ShiY2016}
+Shi Y, and Yang W. Reverse time migration of 3D vertical seismic profile data[J]. Geophysics, 2016, 81(1): S31-S38.
+
+\bibitem{Naveed2016}
+Naveed Akram, and Xiaofei Chen. Elastic Reverse Time Migration (RTM) From Surface Topography[J]. AGUFM, 2016: NS22A-02.
+
+\bibitem{WuD2016}
+Wu Di, Gang Yao, Jingjie Cao, and Yanghua Wang. Least-squares RTM with L1 norm regularisation[J]. Journal of Geophysics and Engineering, 2016, 13(5): 666-673.
+
+\bibitem{ChengC2019}
+Cheng Caifeng, Xiang’E Sun, and Zhangyi Shen. Research on seismic wave reverse time migration data regularization and parallel computing in cloud environment[J]. Journal of Computational Methods in Sciences and Engineering, 2019, 19(1): 43-56.
+
+\bibitem{Virieux2009}
+J. Virieux, S. Operto. An overview of full-waveform inversion in exploration geophysics [J].
+Geophysics, 2009, 74(6): 127-152.
+
+\bibitem{Lailly1983}
+Lailly P. The seismic inverse problem as a sequence of before stack migrations [C]. Conference on
+Inverse Scattering: Theory and Application, 1983: 206-220.
+
+\bibitem{Tarantola1984}
+Tarantola A.Linearized inversion of seismic reflection data [J]. Geophys. Prospect., 1984, 32: 998-
+1015.
+
+\bibitem{Berkhout1984}
+Berkhout A J. Multidimensional linearized inversion and seismic migration [J]. Geophysics, 1984,
+49: 1881-1895.
+
+\bibitem{Devancy1984}
+Devancy A J. Geophysical diffraction tomography [J]. IEEE Trans. Geosci. Remote Sens., 1984,
+22: 3-13.
+
+\bibitem{Tarantola1984}
+Tarantola A. Inversion of seismic reflection data in the acoustic approximation [J]. Geophysics,
+1984, 49: 1259-1266.
+
+\bibitem{Tarantola1986}
+Tarantola A. A strategy for nonlinear elastic inversion of seismic reflection data [J]. Geophysics,
+1986, 51: 1983-1903.
+
+\bibitem{Mora1987}
+Mora P. Nonlinear two-dimensional elastic inversion of multioffset seismic data [J]. Geophysics,
+1987, 52: 1211-1228.
+
+\bibitem{Pica1990}
+Pica A, Tarantola A. Nonlinear inversion of seismic reflection data in a laterally invariant medium
+[J]. Geophysics, 1990, 55: 284-292.
+
+\bibitem{Sen1991}
+Sen M K, Stoffa P L. Nonlinear one-dimensional seismic waveform inversion using simulated
+annealing [J]. Geophysics, 1991, 56: 1624-1638.
+
+\bibitem{Kamei2013}
+R. Kamei, R. G. Pratt. Inversion strategies for visco-acoustic waveform inversion [J]. Geophys. J.
+Int., 2013, 194, 859-884.
+
+\bibitem{Clara2015}
+Clara Castellanos L., Ludovic Métivier, Stéphane Operto, et al. Fast full waveform inversion with
+source encoding and second-order optimization methods [J]. Geophys. J. Int., 2015, 200: 718–742.
+
+\bibitem{Dimitri2016}
+Dimitri Komatitsch, Vadim Monteiller, Yi Wang, et al. Three-dimensional full waveform inversion
+of short-period teleseismic wavefields based upon a coupled spectral-element method [C]. ECCOMAS
+Congress, 2016.
+
+\bibitem{Christian2016}
+Christian Boehm, Mauricio Hanzich, Josep de la Puente, et al. Wavefield compression for adjoint
+methods in full-waveform inversion [J]. Geophysics, 2016, 81(6): R385–R397.
+
+\bibitem{Mahesh2016}
+Mahesh Kalita, Tariq Alkhalifah. Full waveform inversion using the excitation representation of the
+source wavefield [C]. SEG International Exposition and 86th Annual Meeting, 2016.
+
+\bibitem{JianC2016}
+Jian Cai, Jie Zhang. Full-waveform modeling and inversion of physical model data [J]. J. Appl.
+Geophys., 2016, 131: 145-153.
+
+\bibitem{Ryan2016}
+Ryan Modrak, Jeroen Tromp. Seismic waveform inversion best practices: regional, global, and
+exploration test cases [J]. Geophys. J. Int., 2016, 206: 1864–1889.
+
+\bibitem{Yingming2017}
+Yingming Qu, Zhenchun Li, Jianping Huang, et al. Elastic full waveform inversion for surface
+topography [J]. Geophysics, 2017, 82(5): 1-66.
+
+\bibitem{YingR2017}
+Ying Rao, Yanghua Wang. Seismic waveform tomography with shot-encoding using a restarted L-
+BFGS algorithm [J]. Seismic Rep., 2017, 7: 8494.
+
+\bibitem{FangJ2018}
+Jinwei Fang, Hui Zhou, Qingchen Zhang, et al. Effect of surface-related Rayleigh and multiple
+waves on velocity reconstruction with time-domain elastic FWI [J]. J. Appl. Geophys., 2018, 148: 33-
+43.
+
+\bibitem{YuG2018}
+Yu Geng, Wenyong Pan, Kristopher A. Innanen. Frequency-domain full-waveform inversion with
+non-linear descent directions [J]. Geophys. J. Int., 2018, 213: 739–756.
+
+\bibitem{Bunks1995}
+Bunks C, Saleck F M, Zaleski S. Multiscale seismic waveform inversion [J]. Geophysics, 1995, 60:
+1457-1473.
+
+\bibitem{Sheen2006}
+Sheen D H, Tuncay K, Baag C, et al. Time domain Gauss-Newton seismic waveform inversion in
+elastic media [J]. Geophys. J. Int., 2006, 167: 1373-1384.
+
+\bibitem{RenZ2014}
+Zhiming Ren, Yang Liu, Qunshan Zhang. Multiscale viscoacoustic waveform inversion with the
+second generation wavelet transform and adaptive time–space domain finite-difference method [J].
+Geophys. J. Int., 2014, 197: 948–974.
+
+\bibitem{YongH2017}
+Yong H., Liguo H., Zhuo X., et al. Adaptive multi-step Full Waveform Inversion based on Waveform
+Mode Decomposition [J]. J. Appl. Geophys., 2017, 139: 195-210.
+
+\bibitem{Epanomeritakis2008}
+Epanomeritakis I, Akcelik V, Ghattas O, et al. A Newton-CG method for large-scale three-
+dimensional elastic full-waveform seismic inversion [J]. Inverse Probl., 2008, 24(3): 034015.
+
+\bibitem{Shin2009}
+Shin C, Ho Cha Y. Waveform inversion in the Laplace-Fourier domain [J]. Geophys. J. Int., 2009,
+177(3): 1067-1079.
+
+\bibitem{LinY2015}
+Youzuo Lin, Lianjie Huang. Acoustic- and elastic-waveform inversion using a modified total-
+variation regularization scheme [J]. Geophys. J. Int., 2015, 200: 489–502.
+
+\bibitem{LiD2018}
+Dongzhuo Li, Jerry M. Harris. Full waveform inversion with nonlocal similarity and model-
+derivative domain adaptive sparsity-promoting regularization [J]. Geophys. J. Int., 2018, 6: 1-46.
+
+\bibitem{WangB2018}
+王斌. 基于稀疏表示和深度学习的图像识别算法及应用研究[D]. 中国科学技术大学, 2018.
+
+\bibitem{ZhangQ2018}
+Zhang Qiang, Yi Liu, Rick S. Blum, Jungong Han, and Dacheng Tao. Sparse representation based multi-sensor image fusion for multi-focus and multi-modality images: A review[J]. Information Fusion, 2018, 40: 57-75.
+
+\bibitem{Loxley2017}
+Loxley, Peter N. The two-dimensional gabor function adapted to natural image statistics: A model of simple-cell receptive fields and sparse structure in images[J]. Neural Computation 29, 2017, 10: 2769-2799.
+
+\bibitem{SunJ2017}
+孙君顶, 赵慧慧. 图像稀疏表示及其在图像处理中的应用[J]. 红外技术, 2017, 36(7): 533-537
+
+\bibitem{Aharon2006}
+Aharon Michal, Michael Elad, and Alfred Bruckstein. K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation[J]. IEEE Transactions on signal processing, 2016, 54(11): 4311-4322.
+
+\bibitem{HongT2016}
+Hong Tao, Huang Bai, Sheng Li, and Zhihui Zhu. An efficient algorithm for designing projection matrix in compressive sensing based on alternating optimization[J]. Signal Processing, 2016, 125: 9-20.
+
+\bibitem{Hansen1989}
+Hansen R O, Pawlowski R S. Reduction to the pole at low latitudes by Wiener filtering[J]. Geophysics, 1989, 54(12): 1607-1613.
+
+\bibitem{Portilla2001}
+Portilla J, Strela V, Wainwright M J, et al. Adaptive Wiener denoising using a Gaussian scale mixture model in the wavelet domain[C]//Proceedings 2001 International Conference on Image Processing (Cat. No. 01CH37205). IEEE, 2001, 2: 37-40.
+
+\bibitem{King1984}
+King M A, Schwinger R B, Doherty P W, et al. Two-dimensional filtering of SPECT images using the Metz and Wiener filters[J]. Journal of Nuclear Medicine, 1984, 25(11): 1234-1240.
+
+\bibitem{DongC2014}
+Dong C., Loy C.C., He K. and Tang X., September. Learning a deep convolutional network for image super-resolution[C]. In European conference on computer vision, Springer, Cham, 2014: 184-199.
+
+\bibitem{ShiW2016}
+Shi Wenzhe, Jose Caballero, Ferenc Huszár, Johannes Totz, Andrew P. Aitken, Rob Bishop, Daniel Rueckert, and Zehan Wang. Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network[C]. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2016: 1874-1883.
+
+\bibitem{Ledig2017}
+Ledig, Christian, Lucas Theis, Ferenc Huszár, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken et al. Photo-realistic single image super-resolution using a generative adversarial network[C]. In Proceedings of the IEEE conference on computer vision and pattern recognition, 2017: 4681-4690.
+
+\end{thebibliography}
